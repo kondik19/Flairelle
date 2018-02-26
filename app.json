@@ -1,0 +1,15 @@
+{
+   "expo": {
+    "name": "Flairelle",
+    "icon": "./icon.png",
+    "version": "1.0.0",
+    "slug": "flairelle",
+    "sdkVersion": "25.0.0",
+    "ios": {
+      "bundleIdentifier": "com.konradcygal.flairelle"
+    },
+    "android": {
+      "package": "com.konradcygal.flairelle"
+    }
+   }
+ }
